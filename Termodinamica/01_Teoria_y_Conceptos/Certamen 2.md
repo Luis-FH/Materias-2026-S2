@@ -3,6 +3,8 @@ tags:
   - certamen2_termo
 ---
 
+[⬅️ Volver a Termodinámica](../Termodinamica.md) | [🎨 Tablero Canvas](../Termodinamica.canvas)
+
 # Certamen 2 — Contenidos y materiales
 
 Según el programa de la asignatura, el **Certamen 2** se realiza en la semana 17. El tramo posterior al Certamen 1 incluye Segunda Ley, refrigeradores, entropía, flujo de entropía, ciclo Rankine y motores recíprocos/turbina de gas. Los prácticos disponibles actualmente cubren del Práctico 6 al Práctico 8.

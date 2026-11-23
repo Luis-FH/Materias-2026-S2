@@ -3,6 +3,8 @@ tags:
   - certamen1_termo
 ---
 
+[⬅️ Volver a Termodinámica](../Termodinamica.md) | [🎨 Tablero Canvas](../Termodinamica.canvas)
+
 # Certamen 1 — Contenidos y materiales
 
 Según el programa de la asignatura, el **Certamen 1** se realiza en la semana 9, después de introducción y conceptos básicos, calor y trabajo, sustancias puras, gas ideal, sistemas cerrados y sistemas abiertos/dispositivos de flujo estacionario. Los contenidos se organizan en secuencia desde el Práctico 1 al Práctico 5.

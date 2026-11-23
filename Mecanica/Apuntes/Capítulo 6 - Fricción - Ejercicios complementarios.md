@@ -9,11 +9,10 @@ dificultad: Media
 # Capítulo 6: ejercicios complementarios de fricción
 
 > [!info] Ruta de estudio
-> - Presentación: [[C6-541271-2024.pdf]]
-> - Desarrollo del solucionario: [[Desarrollo del solucionario - Fricción]]
-> - Solucionario original: [[Practica_Fricción_solucion.pdf]]
-> - Repaso para la evaluación: [[Apunte-Test 6]]
-> - Índice de Mecánica: [[Mecanica]]
+> - Presentación: C6-541271-2024.pdf
+> - Desarrollo del solucionario: Desarrollo del solucionario - Fricción
+> - Solucionario original: Practica_Fricción_solucion.pdf
+> - Repaso para la evaluación: Apunte-Test 6
 
 Estos ejercicios amplían los ejemplos de la presentación y practican distintos aspectos del rozamiento seco: fricción estática y cinética, equilibrio en un plano inclinado, vuelco, cuñas y cables sobre tambores. Se incluyen desarrollos para que puedas revisar el procedimiento después de intentar cada problema.
 
@@ -290,9 +289,8 @@ $$
 
 ## Conexiones
 
-- [[C6-541271-2024.pdf]]
-- [[Desarrollo del solucionario - Fricción]]
-- [[Practica_Fricción_solucion.pdf]]
-- [[Pauta Test 6 - Fricción.pdf]]
-- [[Apunte-Test 6]]
-- [[Mecanica]]
+- Presentación: C6-541271-2024.pdf
+- Desarrollo del solucionario: Desarrollo del solucionario - Fricción
+- Práctica resuelta: Practica_Fricción_solucion.pdf
+- Pauta del Test 6: Pauta Test 6 - Fricción.pdf
+- Repaso para la evaluación: Apunte-Test 6

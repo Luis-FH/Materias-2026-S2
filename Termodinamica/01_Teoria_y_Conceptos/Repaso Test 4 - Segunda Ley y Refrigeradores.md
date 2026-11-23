@@ -3,6 +3,8 @@ tags:
   - certamen2_termo
 ---
 
+[⬅️ Volver a Termodinámica](../Termodinamica.md) | [🎨 Tablero Canvas](../Termodinamica.canvas)
+
 # Repaso Test 4 — Segunda Ley, máquinas térmicas y refrigeradores
 
 ## Alcance según el calendario del curso

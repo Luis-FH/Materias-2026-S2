@@ -2,6 +2,13 @@
 
 ---
 
+## Mecánica
+
+- [[Certamen1_mecanica]]
+- [[Certamen2_mecanica]]
+
+---
+
 ## 📅 Próximos Certámenes y Evaluaciones
 ```dataview
 TABLE 

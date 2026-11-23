@@ -3,17 +3,16 @@ materia: Mecánica
 tipo: Apunte
 capitulo: 6
 tema: Fricción
-fuente: "[[Practica_Fricción_solucion.pdf]]"
+fuente: Practica_Fricción_solucion.pdf
 ---
 
 # Desarrollo teórico del solucionario: fricción
 
 > [!info] Material relacionado
-> - Solucionario: [[Practica_Fricción_solucion.pdf]]
-> - Teoría del capítulo: [[C6-541271-2024.pdf]]
-> - Ejercicios adicionales: [[Capítulo 6 - Fricción - Ejercicios complementarios]]
-> - Evaluación relacionada: [[Apunte-Test 6]]
-> - Índice de Mecánica: [[Mecanica]]
+> - Solucionario: Practica_Fricción_solucion.pdf
+> - Teoría del capítulo: C6-541271-2024.pdf
+> - Ejercicios adicionales: Capítulo 6 - Fricción - Ejercicios complementarios
+> - Evaluación relacionada: Apunte-Test 6
 
 Este apunte desarrolla los dos ejercicios completos del solucionario que permiten reconstruir con claridad los datos y cálculos: el sistema de bloques sobre un plano inclinado y el bloque conectado a una cuerda que roza una superficie curva. El PDF también contiene páginas manuscritas; para esos desarrollos, consulta las imágenes del archivo fuente.
 
@@ -345,4 +344,4 @@ En los extremos, una de las interfaces está al límite de deslizamiento. Entre 
 
 ---
 
-Siguiente lectura: [[Capítulo 6 - Fricción - Ejercicios complementarios]] · Fuente de los ejercicios: [[Practica_Fricción_solucion.pdf]]
+Siguiente lectura: Capítulo 6 - Fricción - Ejercicios complementarios · Fuente de los ejercicios: Practica_Fricción_solucion.pdf
